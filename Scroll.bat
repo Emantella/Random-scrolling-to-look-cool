@@ -3,14 +3,4 @@ cd C:\windows\system32
 :start
 dir
 tree
-dir
-tree
-dir
-tree
-dir
-tree
-dir
-tree
-dir
-tree
 goto start
