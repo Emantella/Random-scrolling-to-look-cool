@@ -12,4 +12,4 @@ dir
 tree
 dir
 tree
-cd C:\users\
+goto start
